@@ -1,0 +1,10 @@
+input testscore
+If test score is >= 80 
+output "A"
+If test score >= 70
+output "B"
+test score is >= 60
+output "C"
+> 0 
+output "D"
+else output "Fail"
